@@ -1,3 +1,5 @@
+If u want to run the code first you have to unzip the dataset from fer2013.zip then u can run this code.
+
 1. Introduction
 Facial emotion detection is a machine learning application that aims to classify human emotions based on facial expressions. This project uses deep learning techniques and a dataset containing facial images labeled with emotions. The goal is to achieve an efficient model that accurately predicts emotions such as happiness, sadness, anger, etc. Its robustness in distinguishing between various emotional states.
 
